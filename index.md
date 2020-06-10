@@ -1,9 +1,4 @@
-# Testing with h1
+# Testing with h1 (testing 1st *include* file)
 
-**bold**
-
-*italics?*
-
-**Added** another test. Test1
 
 {% include test1.md %}
