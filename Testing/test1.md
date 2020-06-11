@@ -1,5 +1,5 @@
 # Test 1 practice title
 
-**bold 
+**bold**
 
-*italic
+*italic*
