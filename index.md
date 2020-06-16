@@ -1,15 +1,14 @@
-# David Wesseling - Self-taught Developer
+# Main first thing
 
-## Testing inclusion
-
-**testing, testing** 
+## Home
 
 
+## Projects
 {% include test101.md %}
 
-
+## **About**
 {% include test102.md %}
 
-
+## Contact
 
 {% include test103.md%}
