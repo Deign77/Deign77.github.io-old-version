@@ -15,4 +15,4 @@
 
 ## About Me 
 
-{% include _includes/InfoFields/AboutMe.md %}
+{% include InfoFields/AboutMe.md %}
