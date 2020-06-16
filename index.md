@@ -16,3 +16,5 @@
 ## About Me 
 
 {% include InfoFields/AboutMe.md %}
+
+{% includes InfoFields/_includes/AboutMe.md %}
