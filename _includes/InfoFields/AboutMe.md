@@ -1,2 +1,2 @@
+*Ever since I got my first taste of coding I instantly found it fascinating and knew that I wanted to become a developer. That was almost 2 years ago and I've been teaching myself programming ever since. *
 
-*Ever since I got my first taste of programming close to 2 years ago, I've been fascinated by it and thus began my journey to become a self-taught developer.*
