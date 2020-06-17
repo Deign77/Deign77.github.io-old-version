@@ -14,16 +14,16 @@
 
 
 ## Find me on
-[GitHub](github.com/Deign77)
+[GitHub](https://www.github.com/Deign77)
 
 [LinkedIn](https://uk.linkedin.com/in/david-wesseling-a511748a)
 
-[CodeWars](www.codewars.com/users/Deign)
+[CodeWars](https://www.codewars.com/users/Deign)
 
 [Hackerrank](https://www.hackerrank.com/david_wesseling1)
 
 ## Contact
-[Gmail](david.wesseling1@gmail.com)
+david.wesseling1@gmail.com
 
 
 
