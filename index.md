@@ -14,6 +14,12 @@
 
 
 ## Find me on
+
+<div>
+    <a href="https://github.com/Deign77"><img src="https://github.com/Deign77/PORTpractice/blob/master/Website%20Icons/GitHub-Mark-120px-plus.png?raw=true" width="200" height="200" alt="IMG"></a>
+  </div>
+
+
 [GitHub](https://www.github.com/Deign77)    [LinkedIn](https://uk.linkedin.com/in/david-wesseling-a511748a)
 
 
