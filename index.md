@@ -11,11 +11,12 @@
 ## Projects
 
 
+[PORTPractice](https://deign77.github.io/PORTpractice/)
 
+## Contact
+david.wesseling1@gmail.com
 
-## Find me on
-
-
+#### Find me on
 
 <table>
     <tbody>
@@ -27,11 +28,6 @@
         </tr>
     </tbody>
 </table>
-
-[PORTPractice](https://deign77.github.io/PORTpractice/)
-
-## Contact
-david.wesseling1@gmail.com
 
 
 
